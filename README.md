@@ -1,6 +1,6 @@
 # Bem vindo 👋
 
-## Eu sou Paulo Barbosa 
+## Eu sou Paulo Barbosa!
 
 DBA Especialista com mais de 13 anos de experiência administrando, otimizando e sustentando 
 ambientes de missão crítica em múltiplas plataformas. Atuo com bancos Oracle, SQL Server, 
